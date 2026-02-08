@@ -1,0 +1,25 @@
+======================================================================
+  YIELD CURVE LAB — RESEARCH SUMMARY
+======================================================================
+
+  Data:  2,023 days, 11 maturities
+  Period: 2018-01-02 → 2026-02-05
+
+  Curve Shape:
+    2s10s Spread:   1 bp
+    2s5s10s Fly:    0 bp
+
+  Nelson-Siegel:    R²=0.994090, RMSE=3.7bp
+  NS-Svensson:      R²=0.995766, RMSE=3.1bp
+
+  PCA (3 factors):  92.4% variance explained
+    PC1 (Level):    72.3%
+    PC2 (Slope):    10.6%
+    PC3 (Curvature):9.4%
+
+  Short-Rate:       CIR preferred
+    Vasicek θ:      5.751% (half-life 7.2y)
+    CIR θ:          3.454% (Feller: ✓)
+
+  Runtime: 49.0s
+======================================================================
