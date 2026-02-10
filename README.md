@@ -211,11 +211,6 @@ CIR:      κ=0.736, θ=5.34%, Feller: ✓
 
 ---
 
-## Author
-
-**Andreas Kapsalis**
-MSc Quantitative Risk Management — VU Amsterdam
-Risk Analyst — StoneX Group
 
 ---
 
